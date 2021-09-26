@@ -66,7 +66,7 @@
     "id": 8,
     "img": "https://i.postimg.cc/tgjGQCq7/doctor-3.jpg",
     "name": "Dr. Zannatul Ferdaushi",
-    "age": 35,
+    "age": 31,
     "specialist": "Urology",
     "salary": 40,
     "covidOursPerDay": 8
@@ -75,7 +75,7 @@
     "id": 5,
     "img": "https://i.postimg.cc/LXxc1tzZ/doctor-5.jpg",
     "name": "Dr. Mst. Kohinoor Begum",
-    "age": 35,
+    "age": 27,
     "specialist": "Cardiology",
     "salary": 43,
     "covidOursPerDay": 8

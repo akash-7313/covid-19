@@ -19,6 +19,15 @@
     color: #2b1365;
     font-weight: 400;
 }
+
+.doctor-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.doctor-list h2{
+    color: #2b1365;
+}
 .doctor-name{
     color: #2b1365;
     font-weight: 600;
