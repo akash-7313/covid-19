@@ -4,8 +4,8 @@ import './Header.css';
 
 const Header = () => {
     return (
-        <div>
-            <div className="header">
+        <div className="header">
+            <div className="navigation">
                 <div className="logo">
                     <img src={logo} alt="" />
                     <input className="search" type="text" placeholder="type something to search" />
