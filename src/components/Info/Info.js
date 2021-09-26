@@ -20,7 +20,7 @@ const Info = (props) => {
             <div className="info">
                 <div className="time">
                     <h2>Total Hours:</h2>
-                    <h2><i class="far fa-clock"></i> {hours}</h2>
+                    <h2><i className="far fa-clock"></i> {hours}</h2>
                 </div>
                 <div>
                     <h3 className="doctor-name"><small>Doctor's Name : </small></h3>

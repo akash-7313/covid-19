@@ -18,7 +18,7 @@ const Header = () => {
                 </nav>
             </div>
             <div className="header-info">
-                <h1>Welcome to Memorial Hospital</h1>
+                <h1>Welcome to Memorial Hospital covid unit</h1>
                 <p><small>Let's know about our covid-19 soldiers (Doctors) !!!</small></p>
                 <h3>Total dedicated covid-19 Doctors: 12</h3>
             </div>

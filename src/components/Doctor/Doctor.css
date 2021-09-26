@@ -14,8 +14,10 @@
     width: 150px;
     height: 150px;
 }
+
 .doctor-info{
-    padding-left: 10px;
+    /* padding-left: 10px; */
+    text-align: center;
 }
 .doctor-info h2{
     color: #2b1365;
@@ -27,13 +29,15 @@
 .doctor-info b{
     color: #02161d;
 }
+.btn-container{
+    text-align: center;
+}
 .btn{
     color: #2b1365;
     background-color: #2c13651e;
     border-radius: 10px;
     border: 1px solid #4b20da;
     padding: 3px 30px;
-    margin-left: 25px;
     margin-bottom: 10px;
     cursor: pointer;
 }

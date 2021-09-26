@@ -17,7 +17,9 @@ const Doctor = (props) => {
                 <h3><small>Specialist in: <b>{specialist}</b> </small></h3>
                 <p><small>Covid-19 dedicated hours: <b>{covidOursPerDay}</b></small></p>
                 <h3><small>Salary: <b>${salary}k</b></small></h3>
-                <button onClick={() => props.handleInfo(props.doctor)} className="btn"><i class="fas fa-user-md"></i>Add to Sheet</button>
+                <div className="btn-container">
+                    <button onClick={() => props.handleInfo(props.doctor)} className="btn"><i className="fas fa-user-md"></i>Add to Sheet</button>
+                </div>
             </div>
         </div>
     );
