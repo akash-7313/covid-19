@@ -6,26 +6,17 @@ import './Hospital.css';
 const Hospital = () => {
 
     const [doctors, setDoctors] = useState([]);
-    const [info, setinfo] = useState([]);
+    const [info, setInfo] = useState([]);
 
+    // handle info 
     const handleInfo = doctor => {
-        console.log(doctor);
+        // console.log(doctor);
         const newDoctorList = [...info, doctor];
-        setinfo(newDoctorList);
-
-
-        // const exist = [...info];
-        // console.log(exist);
-        // // console.log(exist[doctor]);
-
-        // if (exist.map(one=>one.id)) {
-        //     const newDoctorList = [...info, doctor];
-        //     setinfo(newDoctorList);
-        // }
+        setInfo(newDoctorList);
         
     }
 
-
+    // get fake data
     useEffect(() => {
         fetch('./doctor.JSON')
             .then(res => res.json())
@@ -39,7 +30,7 @@ const Hospital = () => {
                     doctors.map(doctor => <Doctor key={doctor.id} doctor={doctor} handleInfo={handleInfo}></Doctor> )
                 }
             </div>
-            <div className="salary-info">
+            <div>
                 <Info info={info}></Info>
             </div>
         </div>

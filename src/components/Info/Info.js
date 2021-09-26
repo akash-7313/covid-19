@@ -15,7 +15,7 @@ const Info = (props) => {
 
 
     return (
-        <div className="info-cart">
+        <div className="cart">
             <h2><small>Working Hour Info</small></h2>
             <div className="info">
                 <div className="time">
