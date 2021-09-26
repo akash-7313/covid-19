@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.postimg.cc/gjR1BfC3/doctor-10.jpg",
+    "name": "Dr. Karim Beg",
+    "age": 27,
+    "specialist": "Orthopedics",
+    "salary": 48,
+    "covidOursPerDay": 11
+  },
+  {
+    "id": 2,
+    "img": "https://i.postimg.cc/0jJVyDZv/doctor-9.jpg",
+    "name": "Dr. Rahim Usman",
+    "age": 25,
+    "specialist": "Plastic Surgery",
+    "salary": 47,
+    "covidOursPerDay": 12
+  },
+  {
+    "id": 3,
+    "img": "https://i.postimg.cc/gjrfqxDt/doctor-6.jpg",
+    "name": "Dr. Rehnuma Jahan",
+    "age": 29,
+    "specialist": "Otolaryngology",
+    "salary": 46,
+    "covidOursPerDay": 9
+  },
+  {
+    "id": 4,
+    "img": "https://i.postimg.cc/tgXvN1Rd/doctor-7.jpg",
+    "name": "Dr. Salma Rouf",
+    "age": 26,
+    "specialist": "Dermatology",
+    "salary": 41,
+    "covidOursPerDay": 12
+  },
+  {
+    "id": 9,
+    "img": "https://i.postimg.cc/wBGPxqHh/doctor-12.jpg",
+    "name": "Dr. Golam Kibria",
+    "age": 45,
+    "specialist": "Pathology",
+    "salary": 40,
+    "covidOursPerDay": 9
+  },
+  {
+    "id": 6,
+    "img": "https://i.postimg.cc/BvB9q9bp/doctor-4.jpg",
+    "name": "Dr. Amena Majid",
+    "age": 23,
+    "specialist": "Radiology",
+    "salary": 42,
+    "covidOursPerDay": 11
+  },
+  {
+    "id": 7,
+    "img": "https://i.postimg.cc/MTHsghQv/doctor-8.jpg",
+    "name": "Dr. Rashid Ur Rahman",
+    "age": 31,
+    "specialist": "Gastroenterology",
+    "salary": 41,
+    "covidOursPerDay": 9
+  },
+  {
+    "id": 8,
+    "img": "https://i.postimg.cc/tgjGQCq7/doctor-3.jpg",
+    "name": "Dr. Zannatul Ferdaushi",
+    "age": 35,
+    "specialist": "Urology",
+    "salary": 40,
+    "covidOursPerDay": 8
+  },
+  {
+    "id": 5,
+    "img": "https://i.postimg.cc/LXxc1tzZ/doctor-5.jpg",
+    "name": "Dr. Kohinoor Begum",
+    "age": 35,
+    "specialist": "Cardiology",
+    "salary": 43,
+    "covidOursPerDay": 8
+  },
+  {
+    "id": 10,
+    "img": "https://i.postimg.cc/q7s0z6b8/doctor-2.jpg",
+    "name": "Dr. Sayma Akbar",
+    "age": 26,
+    "specialist": "Neurology",
+    "salary": 42,
+    "covidOursPerDay": 11
+  },
+  {
+    "id": 11,
+    "img": "https://i.postimg.cc/vHTQ3BTs/doctor-1.jpg",
+    "name": "Dr. Tasnia Farin",
+    "age": 29,
+    "specialist": "Surgery, General",
+    "salary": 40,
+    "covidOursPerDay": 7
+  },
+  {
+    "id": 12,
+    "img": "https://i.postimg.cc/MptN40F3/doctor-11.jpg",
+    "name": "Dr. Fazlul Hoque",
+    "age": 49,
+    "specialist": "Psychiatry",
+    "salary": 42,
+    "covidOursPerDay": 9
+  }
+]
